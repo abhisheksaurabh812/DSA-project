@@ -1,0 +1,115 @@
+57
+0 Algeria
+Beni Hammad Fort,Djemila,Casbah of Algiers,M'Zab Valley,Timgad,Tipasa,Tassili n'Ajjer
+1 Australia
+Great Barrier Reef,Red Centre,Great Ocean Road,Barossa Valley,The Kimberley,Kangaroo Island,Byron Bay,Australian Alps
+2 Botswana
+Central Kalahari Game Reserve,Chobe National Park,Kgalagadi Transfrontier Park
+3 Brazil
+Rio de Janeiro,Sao Paulo,Espirito Santo,Santa Catarina
+4 Bulgaria
+Burgas,Koprivshtitsa,Sozopol,Veliko Tarnovo,Bansko,Varna,Nesebar,Rila Monastery
+5 Cambodia
+Angkor Wat,Angkor National Museum,Preah Vihear Temple,Lake Yeak Laom,Bou Sra Waterfall,Kirirom National Park
+6 Canada
+Niagara Falls,Whistler,Quebec City,Tofino,Banff National Park,Okanagan Valley
+7 China
+Great Wall Of China,Li River,Changbai Mountains,Grand Canal of China,Sanghai
+8 Colombia
+Chiribiquete National Park,Coffee Cultural Landscape of Colombia
+9 Croatia 
+Zagreb,Split,Vis,Dubrovnik,Rijeka,Bisevo
+10 Denmark
+Rabjerg Mile,Gilleleje,Elsinore,Maritime Museum,Tivoli Gardens,The Little Mermaid Of Copenhagen
+11 Egypt
+Pyramids Of Giza,Valley Of Kings,Luxor,Islamic Cairo,Citadel Of Saladin,Aswan,Egyptian Museum
+12 Finland
+Northern Lights,Santa Claus Village,Aland,Suomenlinna,Helsinki,Levi
+13 France
+Paris,Eiffel Tower,The Louvre,Notre Dam Cathedral,Bordeaux,French Riviera,Chambord
+14 Georgia
+Tallulah Gorge,Lullwater Park,Callaway Gardens,Atlanta
+15 Germany
+Berlin,Munich,Heidelberg,Lubeck,Dresden
+16 Greece
+Athens,Santorini,Naxos,Mykonos,Paros
+17 Hong Kong
+Star Ferry,Hong Kong Skyline,Victoria Peak,Big Buddha,Wong Tai Sin Temple
+18 Hungary
+Budapest,Buda Castle,The Danube,Tihany,Széchenyi Chain Bridge
+19 India
+Amber Palace,Taj Mahal,Hawa Mahal,Red Fort
+20 Indonesia
+Jakarta,Uluwatu Temple,Seminyak,Borobudur Temple
+21 Iran
+Tehran,Naqsh-e Jahan Square,Golestan Palace,Eram Garden
+22 Ireland
+Dublin,Cliffs of Moher,Guiness Storehouse,Ring of Kerry,Blarney castle
+23 Israel
+Jerusalem,Masada National Park,Sea of Galilee,Ein Gedi,Mount Zion
+24 Italy
+Rome,Colosseum,Cathedral of Santa Maria del Fiore,Trevi Fountain,Leaning Tower of Pisa
+25 Jamaica
+Kingston,Dunn's River Falls,Rose Hall,Bob Marley Museum,Dolphin Cove Ocho Rios
+26 Japan
+Tokyo,Mount Fuji,Kiyomizu-dera,Fushimi Inari Taisha,Arashiyama
+27 Jordan
+Amman,Petra,Mount Nebo,Al-Khazneh
+28 Kenya
+Nairobi,Maasai Mara,Amboseli National Park,Lake Nakuru
+29 Kuwait
+Kuwait Towers,Grand Mosque,Al Hamra tower
+30 Lebanon
+Beirut,Kadisha Valley,Cedars of God,Raouche Rocks
+31 Macau
+Ruins of St.Paul's,The Venetian Macao,Senado Square
+32 Madagascar
+Antananarivo,Nosy Be,Andasibe-Mantadia National Park
+33 Morocco
+Rabat,Jama El f'na,Bahia Palace,Koutoubia
+34 Nepal
+Kathmandu,Swayambhunath,Pashupatinath Temple,Kathmandu Durbar Square,Chitwan National Park
+35 Netherlands
+Amsterdam,Van Gogh Museum,Keukenhof,Anne Frank House
+36 New Zealand
+Wellington,Milford Sound,Waitomo,Bay of Islands,Aoraki,Napier,Waikato River
+37 North Korea
+Pyongyang,Heaven lake,Kaesong,Wonsan
+38 Pakistan
+Islamabad,Lahore,Karachi,Naran
+39 Poland
+Warsaw,Wieliczka Salt Mine,Wawel Royal Castle,Main Square
+40 Portugal
+Lisbon,Tower of Belem,National Palace of Pena,Jeronimos Monastery,Castelo de S.Jorge
+41 Russia
+Moscow,State Hermitage Museum,Red Square,St. Basil's Cathedral
+42 South Africa
+Cape Town,Kruger National Park,Table Mountain,Cape of Good Hope
+43 South Korea
+Seoul,N Seoul Tower,Myeong-dong,Bukchon Hanok Village
+44 Spain
+Madrid,La Sagrada Familia,Park Guell,Alhambra,Casa Mila
+45 Sri Lanka
+Colombo,Sigriya,Yala National Park,Temple of the Sacred Tooth Relic
+46 Switzerland
+Switzerland,Jungfrau,Chillon Castle,Rhine Falls
+47 Taiwan
+Taipei,Kaohsiung City,Taroko National Park,Sun Moon Lake
+48 Thailand
+Bangkok,Phi Phi Islands,The Grand palace,Pa Tong
+49 Tunisia
+Tunis,Bardo National Museum,Port El Kantaoui,Medina of Sousse Tunisia
+50 Turkey
+Ankara,Hagia Sophia Museum,The Blue Mosque,Pamukkale,Topkapi Palace Museum
+51 Ukraine
+Kyiv,St. Sophia's Cathedral,Golden Gate,Independence Square
+52 UAE
+Abu Dhabi,Burj Khalifa,Burj Al Arab Jumeirah,The Dubai Mall,Sheikh Zayed Grand Mosque
+53 United Kingdom
+London,Big Ben,Coca-Cola London Eye,Tower of London,Tower Bridge
+54 United States
+Grand Canyon National Park,Statue of Liberty,Yosemite National Park,Golden Gate Bridge
+55 Uruguay
+Montevideo,Plaza Independencia,Palacio Salvo,Pocitos,Museo Casapueblo
+56 Venezuela
+Angel Falls,Parque Nacional Canaima,Auyan-tepui,El Avilla National Park
