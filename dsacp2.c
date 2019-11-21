@@ -64,7 +64,7 @@ int main()
   fclose(fp);
 
   fp=fopen("Tour_Cost.txt","r");
-  fp1=fopen("Tour_Duration","r");
+  fp1=fopen("Tour_Duration.txt","r");
   generate_graph(fp,fp1,graph_mat,V);
   fclose(fp);
 
