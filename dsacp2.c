@@ -138,7 +138,7 @@ int main()
                 {
                     system("cls");
                     printf("/*********************Settings Menu*********************/\n");
-                    printf("\t1. Change current country\n\t2. Edit path duration\n\t3. Edit path cost\n0. back\n");
+                    printf("\t1. Change current country\n\t2. Edit appeareance\n\t0. Back\n");
                     printf("/*******************************************************/\n");
                     scanf("%d",&ch2);
                     switch(ch2)
